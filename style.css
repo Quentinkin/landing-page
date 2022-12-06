@@ -1,0 +1,44 @@
+/* body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+} */
+
+.laptop {
+  width: auto;
+  height: 300px;
+}
+
+/* 
+.info {
+  display: flex;
+}
+
+.random {
+  display: flex;
+  align-self: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.random-imgs {
+  display: flex;
+}
+
+.img-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.img-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
